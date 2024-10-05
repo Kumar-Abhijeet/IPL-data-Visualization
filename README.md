@@ -20,10 +20,10 @@ Here’s a revised **README** with specific data and percentages from your IPL D
 
 ### Project Overview:
 The IPL Data Visualization project provides insights into key factors affecting match outcomes and team performances:
-- **Toss vs Match Outcomes**: Teams choosing to field first after winning the toss generally have a higher win rate across most venues, with Eden Gardens showing a significant advantage for teams opting to field【5†source】.
-- **Biggest Wins**: Mumbai Indians recorded the biggest win by runs with a 146-run victory, while Royal Challengers Bangalore and Kolkata Knight Riders followed with 144-run wins【5†source】.
-- **Boundary Trends**: The 2013 IPL season witnessed a peak of 2,054 fours, while sixes peaked in 2012 with 733 hits【5†source】【5†source】.
-- **Home vs Away Win Percentages**: Teams like Mumbai and Chennai have a significantly higher win percentage at home, while Hyderabad stands out for away victories  .
+- **Toss vs Match Outcomes**: Teams choosing to field first after winning the toss generally have a higher win rate across most venues, with Eden Gardens showing a significant advantage for teams opting to field.
+- **Biggest Wins**: Mumbai Indians recorded the biggest win by runs with a 146-run victory, while Royal Challengers Bangalore and Kolkata Knight Riders followed with 144-run wins.
+- **Boundary Trends**: The 2013 IPL season witnessed a peak of 2,054 fours, while sixes peaked in 2012 with 733 hits.
+- **Home vs Away Win Percentages**: Teams like Mumbai and Chennai have a significantly higher win percentage at home, while Hyderabad stands out for away victories.
 
 ---
 
@@ -48,10 +48,7 @@ The data used for this analysis comes from IPL match statistics, compiled and cl
 ---
 
 ### Setup Instructions:
-1. Clone the repository:
-   ```bash
-   git clone <>
-   ```
+1. Clone the repository.
 2. Load the data in Tableau, Power BI, or other visualization tools to explore the visualizations.
 3. Run the analysis process.
 
