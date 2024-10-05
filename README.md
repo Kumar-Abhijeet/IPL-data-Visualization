@@ -1,13 +1,10 @@
-# IPL-data-Visualization
-This project offers IPL data visualizations, analyzing toss decisions, match outcomes, biggest wins, and boundary trends. It highlights key insights on team performance, venue-specific outcomes, and home vs away win percentages, providing a detailed view of IPL trends and statistics across seasons.
-Here’s a revised **README** with specific data and percentages from your IPL Data Visualization project:
-
----
 
 # IPL Data Visualization
 ### By Abhijeet Kumar
 
-This project analyzes Indian Premier League (IPL) statistics using data visualization techniques. The analysis covers match outcomes, toss decisions, team performances, and boundary trends, highlighting how various factors affect match results across different IPL seasons.
+This project offers IPL data visualizations, analyzing toss decisions, match outcomes, biggest wins, and boundary trends. It highlights key insights on team performance, venue-specific outcomes, and home vs away win percentages, providing a detailed view of IPL trends and statistics across seasons.
+Here’s a revised **README** with specific data and percentages from your IPL Data Visualization project:
+
 
 ## Table of Contents:
 1. [Project Overview](#project-overview)
